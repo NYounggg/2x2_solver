@@ -35,5 +35,6 @@ None | No modifier indicates a 90° clockwise turn | R, r
 Other Commands | Description |
 ---------------|-------------|
 scramble | Scrambles the cube and prints the scramble |
+undo | Undoes the previous move | 
 prev | Prints all of the previous moves |
 quit | Terminates the program
