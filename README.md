@@ -1,7 +1,7 @@
 # 2x2_solver
 AI project/experiment for solving a 2x2 puzzle cube
 
-When running the proj.ipynb Jupyter Notebook file, enter moves one at a time to turn the cube.  
+When running the Main block of code in proj.ipynb, enter moves one at a time to turn the cube.  
 Moves can be upper or lower case, and can contain an optional modifier at the end to denote degrees turned.
 
 ![cube](https://user-images.githubusercontent.com/71022019/156902906-60e1825d-ed9a-47e1-8ff1-cadd22c313a3.png)
