@@ -1,5 +1,6 @@
 # 2x2_solver
-AI project/experiment for solving a 2x2 puzzle cube
+Interactive, text-based, 2x2 puzzle cube.
+Made in a Jupyter Notebook using Python
 
 When running the Main block of code in proj.ipynb, enter moves one at a time to turn the cube.  
 Moves can be upper or lower case, and can contain an optional modifier at the end to denote degrees turned.
